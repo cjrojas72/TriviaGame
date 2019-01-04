@@ -1,0 +1,9 @@
+body{
+  background-image: url("../images/trivia-background.jpeg");
+}
+#game-div{
+  top: 100px;
+  height: 400px;
+  box-shadow: 5px 10px #888888;
+  background-color: whitesmoke;
+}
